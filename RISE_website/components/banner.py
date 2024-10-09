@@ -13,12 +13,12 @@ def banner():
         rx.vstack(
             rx.heading(
                 "RISE @ SIT",
-                size=rx.breakpoints(sm="4", md="3", lg="2"),
+                font_size=rx.breakpoints(sm="32px", md="40px", lg="48px"),
                 font_weight="bold"
             ),
             rx.text(
                 "Research Lab of Software Engineering for the ",
-                font_size=rx.breakpoints(sm="md", md="lg", lg="xl")
+                font_size=rx.breakpoints(sm="16px", md="18px", lg="20px")
             ),
             position="absolute",
             top="50%",
@@ -27,6 +27,8 @@ def banner():
             text_align="center",
             z_index="10",
             color="black",
+            width="80%",  # 限制文本宽度
+            max_width="800px",  # 设置最大宽度
         ),
         width="100%",
         height="100vh",
