@@ -17,7 +17,7 @@ def banner():
                 font_weight="bold"
             ),
             rx.text(
-                "Research Lab of Software Engineering for the ",
+                "Research in Software Engineering for the Future",
                 font_size=rx.breakpoints(sm="16px", md="18px", lg="20px")
             ),
             position="absolute",

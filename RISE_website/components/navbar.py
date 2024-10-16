@@ -1,14 +1,16 @@
 import reflex as rx
+from RISE_website.styles.common import link_style
 
 def navbar():
     return rx.box(
         rx.hstack(
             rx.heading("RISE Lab"),
             rx.spacer(),
-            rx.link("Home", href="/"),
-            rx.link("Research", href="/research"),
-            rx.link("People", href="/people"),
-            rx.link("About", href="/about"),
+            rx.link("Home", href="/", style=link_style),
+            rx.link("Research", href="/research", style=link_style),
+            rx.link("Publications", href="/publications", style=link_style),  # Add this line
+            rx.link("People", href="/people", style=link_style),
+            rx.link("About", href="/about", style=link_style),
             spacing="1em",
         ),
         width="100%",
