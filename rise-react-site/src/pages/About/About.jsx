@@ -71,7 +71,7 @@ const About = () => {
           </div>
         </section>
 
-        <section className="about-contact">
+        {/* <section className="about-contact">
           <h2>Contact Us</h2>
           <div className="contact-info">
             <div className="contact-item">
@@ -98,8 +98,43 @@ const About = () => {
               </div>
             </div>
           </div>
-        </section>
+        </section> */}
       </div>
+
+      {/* Footer */}
+      <footer className="home-footer">
+        <div className="container">
+          <div className="footer-content">
+            {/* Left: Basic Lab Info */}
+            <div className="footer-left">
+              <h3 className="footer-title">RISSE Lab</h3>
+              <p className="footer-subtitle">Research in Software Engineering</p>
+              <p className="footer-address">Stevens Institute of Technology</p>
+              <p className="footer-email">Email: lxiao6@stevens.edu</p>
+            </div>
+
+            <div className="footer-right">
+              <div className="footer-logos">
+                <img
+                  src={`${import.meta.env.BASE_URL}images/logo/sit.png`}
+                  alt="Stevens Institute of Technology"
+                  className="footer-logo stevens-logo"
+                />
+                <img
+                  src={`${import.meta.env.BASE_URL}images/logo/new_logo.png`}
+                  alt="RISSE Lab Logo"
+                  className="footer-logo"
+                />
+              </div>
+            </div>
+          </div>
+
+          {/* Copyright */}
+          <div className="footer-bottom">
+            <p>© 2025 RISSE Lab @ Stevens Institute of Technology</p>
+          </div>
+        </div>
+      </footer>
     </div>
   );
 };
