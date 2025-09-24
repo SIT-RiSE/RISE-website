@@ -5,7 +5,7 @@ const People = () => {
     {
       name: "Lu Xiao",
       title: "Associate Professor",
-      image: "/images/people/lxiao6.webp",
+      image: `${import.meta.env.BASE_URL}images/people/lxiao6.webp`,
       note: "",
       tag: "PI",
       url: "https://scholar.google.com/citations?user=YOUR_ID"
@@ -16,21 +16,21 @@ const People = () => {
     {
       name: "Chenhao Wei",
       title: "PhD Student",
-      image: "/images/people/cwei7.webp",
+      image: `${import.meta.env.BASE_URL}images/people/cwei7.webp`,
       note: "Research focus: Unit Testing Architecture",
       url: "https://scholar.google.com/citations?user=q6kIw60AAAAJ"
     },
     {
       name: "Gengwu Zhao",
       title: "PhD Student",
-      image: "/images/people/gzhao.jpeg",
+      image: `${import.meta.env.BASE_URL}images/people/gzhao.jpeg`,
       note: "Research focus: Unit Test Mocking",
       url: "https://scholar.google.com/citations?user=QFl5ZekAAAAJ"
     },
     {
       name: "Hanbin Qin",
       title: "PhD Student",
-      image: "/images/people/hqin.jpeg",
+      image: `${import.meta.env.BASE_URL}images/people/hqin.jpeg`,
       note: "Research focus: Unit Test Mocking",
       url: "#"
     }
@@ -40,7 +40,7 @@ const People = () => {
     {
       name: "Yutong Zhao",
       title: "PhD Graduate",
-      image: "/images/people/yzhao.jpeg",
+      image: `${import.meta.env.BASE_URL}images/people/yzhao.jpeg`,
       note: "Current position: Assistant Professor",
       tag: "Alumni",
       url: "https://scholar.google.com/citations?user=aMcoNgEAAAAJ"
@@ -48,7 +48,7 @@ const People = () => {
     {
       name: "Xiao Wang",
       title: "PhD Graduate",
-      image: "/images/people/xwang.jpeg",
+      image: `${import.meta.env.BASE_URL}images/people/xwang.jpeg`,
       note: "Current position: SDE II at Amazon",
       tag: "Alumni",
       url: "https://scholar.google.com/citations?user=4fcRQJoAAAAJ"

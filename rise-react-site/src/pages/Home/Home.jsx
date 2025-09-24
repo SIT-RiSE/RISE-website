@@ -5,7 +5,7 @@ const Home = () => {
   const professor = {
     name: "Dr. Lu Xiao",
     title: "Associate Professor",
-    image: "/images/people/lxiao6.webp",
+    image: `${import.meta.env.BASE_URL}images/people/lxiao6.webp`,
     bio: "Dr. Lu Xiao is an Associate Professor specializing in software engineering...",
   };
 
@@ -82,12 +82,12 @@ const Home = () => {
             <div className="footer-right">
               <div className="footer-logos">
                 <img
-                  src="/images/logo/sit.png"
+                  src={`${import.meta.env.BASE_URL}images/logo/sit.png`}
                   alt="Stevens Institute of Technology"
                   className="footer-logo stevens-logo"
                 />
                 <img
-                  src="/images/logo/new_logo.png"
+                  src={`${import.meta.env.BASE_URL}images/logo/new_logo.png`}
                   alt="RISSE Lab Logo"
                   className="footer-logo"
                 />
