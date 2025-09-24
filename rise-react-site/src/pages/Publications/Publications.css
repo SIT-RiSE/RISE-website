@@ -39,6 +39,8 @@
 
 .publication-venue {
   color: #6495ed;
+  font-weight: 500;
+  font-style: italic;
 }
 
 .publication-year {

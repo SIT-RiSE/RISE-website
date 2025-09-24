@@ -5,9 +5,12 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "npm run update-publications && vite build",
+    "build:no-update": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
+    "update-publications": "node scripts/update-publications.js",
+    "update-publications:force": "node scripts/update-publications.js --force",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },

@@ -8,7 +8,7 @@ const Publications = () => {
 
   useEffect(() => {
     // Load publications from JSON file
-    fetch('/data/publications.json')
+    fetch(`${import.meta.env.BASE_URL}data/publications.json`)
       .then(response => response.json())
       .then(data => {
         setPublications(data);
@@ -37,7 +37,9 @@ const Publications = () => {
         <p className="publication-authors">{pub.authors}</p>
         <h3 className="publication-title">{pub.title}</h3>
         <div className="publication-meta">
-          <span className="publication-venue">{pub.venue}</span>
+          {pub.venue && (
+            <span className="publication-venue">{pub.venue}</span>
+          )}
           <span className="publication-year">{pub.year}</span>
         </div>
         <div className="publication-links">
