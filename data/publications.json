@@ -3,7 +3,7 @@
     "title": "How Do Developers Structure Unit Test Cases? An Empirical Analysis of the AAA Pattern in Open Source Projects",
     "authors": "Chenhao Wei, Lu Xiao, Tingting Yu, Sunny Wong, Abigail Clune",
     "year": 2025,
-    "venue": "",
+    "venue": "IEEE",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/10859187/",
     "citations": 3
   },
@@ -11,7 +11,7 @@
     "title": "BOARD# 353A: DUE: Integrating Performance Engineering in Software Engineering Education: A Multi-Course Project Approach",
     "authors": "Lu Xiao, Yu Tao, Andre Benjamin Bondi, Eman Abdullah AlOmar",
     "year": 2025,
-    "venue": "",
+    "venue": "ASEE",
     "paper_url": "https://peer.asee.org/board-353a-due-integrating-performance-engineering-in-software-engineering-education-a-multi-course-project-approach",
     "citations": 0
   },
@@ -19,7 +19,7 @@
     "title": "Cultivating Performance Awareness in a Testing Project: A Focus on Machine-Readable Travel Documents",
     "authors": "Lu Xiao, Andre B Bondi, Eman Abdullah AlOmar, Yu Tao",
     "year": 2025,
-    "venue": "",
+    "venue": "ACM",
     "paper_url": "https://dl.acm.org/doi/abs/10.1145/3680256.3721307",
     "citations": 0
   },
@@ -27,7 +27,7 @@
     "title": "The Secret Life of Bots in Pull Requests: An Empirical Study based on Apache Projects",
     "authors": "Chenhao Wei, Lu Xiao, Ting Liao, Yutong Zhao",
     "year": 2025,
-    "venue": "",
+    "venue": "IEEE",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/11050809/",
     "citations": 0
   },
@@ -35,7 +35,7 @@
     "title": "Understanding and Identifying Technical Debt in the Co-Evolution of Production and Test Code",
     "authors": "Yimeng Guo, Zhifei Chen, Lu Xiao, Lin Chen, Yanhui Li, Yuming Zhou",
     "year": 2025,
-    "venue": "",
+    "venue": "IEEE",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/10934744/",
     "citations": 0
   },
@@ -43,7 +43,7 @@
     "title": "An empirical study on the usage of mocking frameworks in Apache software foundation",
     "authors": "Lu Xiao, Gengwu Zhao, Xiao Wang, Keye Li, Erick Lim, Chenhao Wei, Tingting Yu, Xiaoyin Wang",
     "year": 2024,
-    "venue": "",
+    "venue": "Empirical Software Engineering",
     "paper_url": "https://link.springer.com/article/10.1007/s10664-023-10410-y",
     "citations": 11
   },
@@ -59,7 +59,7 @@
     "title": "Explaining the Contributing Factors for Vulnerability Detection in Machine Learning",
     "authors": "Esma Mouine, Yan Liu, Lu Xiao, Rick Kazman, Xiao Wang",
     "year": 2024,
-    "venue": "",
+    "venue": "arXiv",
     "paper_url": "https://arxiv.org/abs/2406.03577",
     "citations": 0
   },
@@ -67,7 +67,7 @@
     "title": "Exploring Current Practices and Challenges of HIPAA Compliance in Software Engineering: Scoping Review",
     "authors": "Farah Elkourdi, Chenhao Wei, Lu Xiao, Zhongyuan Yu, Onur Asan",
     "year": 2024,
-    "venue": "",
+    "venue": "IEEE TSE",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/10506964/",
     "citations": 10
   },
@@ -75,7 +75,7 @@
     "title": "Systematic Mapping Study of Systems Security Engineering for Modular Open Systems",
     "authors": "Giselle Bonilla-Ortiz, Dinesh Verma, James N Head, Lu Xiao, Koduvayur Subbalakshmi",
     "year": 2024,
-    "venue": "",
+    "venue": "IEEE",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/10506332/",
     "citations": 0
   },
@@ -83,7 +83,7 @@
     "title": "A Platform-Agnostic Framework for Automatically Identifying Performance Issue Reports with Heuristic Linguistic Patterns",
     "authors": "Yutong Zhao, Lu Xiao, Sunny Wong",
     "year": 2024,
-    "venue": "",
+    "venue": "IEEE",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/10504708/",
     "citations": 2
   },
@@ -91,7 +91,7 @@
     "title": "eFish'nSea: Unity Game Set for Learning Software Performance Issues Root Causes and Resolutions",
     "authors": "Andrew Quinlan, Ryan Mercadante, Vincent Tufo, Jonathan Morrone, Lu Xiao",
     "year": 2024,
-    "venue": "",
+    "venue": "ACM",
     "paper_url": "https://dl.acm.org/doi/abs/10.1145/3639474.3640066",
     "citations": 1
   },
@@ -107,7 +107,7 @@
     "title": "A Systematic Mapping Study on Architectural Approaches to Software Performance Analysis",
     "authors": "Yutong Zhao, Lu Xiao, Chenhao Wei, Rick Kazman, Ye Yang",
     "year": 2024,
-    "venue": "",
+    "venue": "arXiv",
     "paper_url": "https://arxiv.org/abs/2410.17372",
     "citations": 1
   },
@@ -115,7 +115,7 @@
     "title": "An Empirical Study of Regression Testing for Android Apps in Continuous Integration Environment",
     "authors": "Dingbang Wang, Yu Zhao, Lu Xiao, Tingting Yu",
     "year": 2023,
-    "venue": "",
+    "venue": "IEEE",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/10304799/",
     "citations": 3
   },
@@ -123,7 +123,7 @@
     "title": "SAIN: A Community-Wide Software Architecture INfrastructure",
     "authors": "Joshua Garcia, Mehdi Mirakhorli, Lu Xiao, Sam Malek, Rick Kazman, Yuanfang Cai, Nenad Medvidović",
     "year": 2023,
-    "venue": "",
+    "venue": "IEEE",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/10172765/",
     "citations": 2
   },
@@ -131,7 +131,7 @@
     "title": "Early Progress on Enhancing Existing Software Engineering Courses to Cultivate Performance Awareness",
     "authors": "André Benjamin Bondi, Lu Xiao",
     "year": 2023,
-    "venue": "",
+    "venue": "ACM",
     "paper_url": "https://dl.acm.org/doi/abs/10.1145/3578245.3584352",
     "citations": 3
   },
@@ -139,7 +139,7 @@
     "title": "Automatically Tagging the “AAA” Pattern in Unit Test Cases Using Machine Learning Models",
     "authors": "Chenhao Wei, Lu Xiao, Tingting Yu, Xinyu Chen, Xiao Wang, Sunny Wong, Abigail Clune",
     "year": 2023,
-    "venue": "",
+    "venue": "IEEE",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/10058578/",
     "citations": 3
   },
@@ -155,7 +155,7 @@
     "title": "A Framework on Early Decoupling Level Metric Assessment Based on NLP4RE",
     "authors": "Lu Xiao, Gengwu Zhao, Maximilian Vierlboeck, Roshanak Nilchiani",
     "year": 2023,
-    "venue": "",
+    "venue": "Springer",
     "paper_url": "https://link.springer.com/chapter/10.1007/978-3-031-49179-5_12",
     "citations": 0
   },
@@ -163,7 +163,7 @@
     "title": "A large-scale empirical study of real-life performance issues in open source projects",
     "authors": "Yutong Zhao, Lu Xiao, Andre B Bondi, Bihuan Chen, Yang Liu",
     "year": 2022,
-    "venue": "",
+    "venue": "IEEE",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/9757842/",
     "citations": 19
   },
@@ -179,7 +179,7 @@
     "title": "Automatically tagging the “AAA” pattern in unit test cases using machine learning models",
     "authors": "Chenhao Wei, Lu Xiao, Tingting Yu, Xinyu Chen, Xiao Wang, Sunny Wong, Abigail Clune",
     "year": 2022,
-    "venue": "",
+    "venue": "ACM",
     "paper_url": "https://dl.acm.org/doi/abs/10.1145/3551349.3559510",
     "citations": 6
   },
@@ -187,7 +187,7 @@
     "title": "JMocker: refactoring test-production inheritance by mockito",
     "authors": "Xiao Wang, Lu Xiao, Tingting Yu, Anne Woepse, Sunny Wong",
     "year": 2022,
-    "venue": "",
+    "venue": "ACM",
     "paper_url": "https://dl.acm.org/doi/abs/10.1145/3510454.3516836",
     "citations": 4
   },
@@ -195,7 +195,7 @@
     "title": "From inheritance to mockito: An automatic refactoring approach",
     "authors": "Xiao Wang, Lu Xiao, Tingting Yu, Anne Woepse, Sunny Wong",
     "year": 2022,
-    "venue": "",
+    "venue": "IEEE",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/9999050/",
     "citations": 2
   },
@@ -203,7 +203,7 @@
     "title": "Constructing a shared infrastructure for software architecture analysis and maintenance",
     "authors": "Joshua Garcia, Mehdi Mirakhorli, Lu Xiao, Yutong Zhao, Ibrahim Mujhid, Khoi Pham, Ahmet Okutan, Sam Malek, Rick Kazman, Yuanfang Cai, Nenad Medvidović",
     "year": 2021,
-    "venue": "",
+    "venue": "IEEE",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/9426737/",
     "citations": 22
   },
@@ -211,7 +211,7 @@
     "title": "Detecting the locations and predicting the maintenance costs of compound architectural debts",
     "authors": "Lu Xiao, Yuanfang Cai, Rick Kazman, Ran Mo, Qiong Feng",
     "year": 2021,
-    "venue": "",
+    "venue": "IEEE",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/9508122/",
     "citations": 27
   },
@@ -219,7 +219,7 @@
     "title": "An automatic refactoring framework for replacing test-production inheritance by mocking mechanism",
     "authors": "Xiao Wang, Lu Xiao, Tingting Yu, Anne Woepse, Sunny Wong",
     "year": 2021,
-    "venue": "",
+    "venue": "ACM",
     "paper_url": "https://dl.acm.org/doi/abs/10.1145/3468264.3468590",
     "citations": 19
   },
@@ -227,7 +227,7 @@
     "title": "How are performance issues caused and resolved?-an empirical study from a design perspective",
     "authors": "Yutong Zhao, Lu Xiao, Xiao Wang, Lei Sun, Bihuan Chen, Yang Liu, Andre B Bondi",
     "year": 2020,
-    "venue": "",
+    "venue": "ACM",
     "paper_url": "https://dl.acm.org/doi/abs/10.1145/3358960.3379130",
     "citations": 21
   },
@@ -235,7 +235,7 @@
     "title": "Automatically identifying performance issue reports with heuristic linguistic patterns",
     "authors": "Yutong Zhao, Lu Xiao, Pouria Babvey, Lei Sun, Sunny Wong, Angel A Martinez, Xiao Wang",
     "year": 2020,
-    "venue": "",
+    "venue": "ACM",
     "paper_url": "https://dl.acm.org/doi/abs/10.1145/3368089.3409674",
     "citations": 13
   },
@@ -243,7 +243,7 @@
     "title": "Butterfly space: An architectural approach for investigating performance issues",
     "authors": "Yutong Zhao, Lu Xiao, Xiao Wang, Zhifei Chen, Bihuan Chen, Yang Liu",
     "year": 2020,
-    "venue": "",
+    "venue": "IEEE",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/9101223/",
     "citations": 10
   },
@@ -259,7 +259,7 @@
     "title": "DesignDiff: Continuously modeling software design difference from code revisions",
     "authors": "Xiao Wang, Lu Xiao, Kaifeng Huang, Bihuan Chen, Yutong Zhao, Yang Liu",
     "year": 2020,
-    "venue": "",
+    "venue": "IEEE",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/9101195/",
     "citations": 5
   },
@@ -267,7 +267,7 @@
     "title": "Architecture anti-patterns: Automatically detectable violations of design principles",
     "authors": "Ran Mo, Yuanfang Cai, Rick Kazman, Lu Xiao, Qiong Feng",
     "year": 2019,
-    "venue": "",
+    "venue": "IEEE",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/8691586/",
     "citations": 79
   },
@@ -275,7 +275,7 @@
     "title": "Understanding evolutionary coupling by fine-grained co-change relationship analysis",
     "authors": "Daihong Zhou, Yijian Wu, Lu Xiao, Yuanfang Cai, Xin Peng, Jinrong Fan, Lu Huang, Heng Chen",
     "year": 2019,
-    "venue": "",
+    "venue": "IEEE",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/8813262/",
     "citations": 13
   },
@@ -283,7 +283,7 @@
     "title": "Localized or architectural: an empirical study of performance issues dichotomy",
     "authors": "Yutong Zhao, Lu Xiao, Wang Xiao, Bihuan Chen, Yang Liu",
     "year": 2019,
-    "venue": "",
+    "venue": "IEEE",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/8802799/",
     "citations": 10
   },
@@ -299,7 +299,7 @@
     "title": "Conference Chairs: Nenad Medvidovic, Mehdi Mirakhorli, Sam Malek, Joshua Garcia",
     "authors": "Yuanfang Cai, Rick Kazman, Lu Xiao",
     "year": 2019,
-    "venue": "",
+    "venue": "ACM",
     "paper_url": "https://dl.acm.org/doi/abs/10.5555/3338783",
     "citations": 0
   },
@@ -307,7 +307,7 @@
     "title": "Design rule spaces: A new model for representing and analyzing software architecture",
     "authors": "Yuanfang Cai, Lu Xiao, Rick Kazman, Ran Mo, Qiong Feng",
     "year": 2018,
-    "venue": "",
+    "venue": "IEEE",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/8268667/",
     "citations": 47
   },
@@ -315,7 +315,7 @@
     "title": "Speedoo: prioritizing performance optimization opportunities",
     "authors": "Zhifei Chen, Bihuan Chen, Lu Xiao, Xiao Wang, Lin Chen, Yang Liu, Baowen Xu",
     "year": 2018,
-    "venue": "",
+    "venue": "ACM",
     "paper_url": "https://dl.acm.org/doi/abs/10.1145/3180155.3180229",
     "citations": 26
   },
@@ -323,7 +323,7 @@
     "title": "Identifying TraIn: a neglected form of socio-technical incongruence",
     "authors": "Xiao Wang, Lu Xiao, Ye Yang, Xinyi Xu, Yu Jiang",
     "year": 2018,
-    "venue": "",
+    "venue": "ACM",
     "paper_url": "https://dl.acm.org/doi/abs/10.1145/3183440.3195008",
     "citations": 5
   },
@@ -347,7 +347,7 @@
     "title": "How robust is your development team?",
     "authors": "Lu Xiao, Zhongyuan Yu, Bohong Chen, Xiao Wang",
     "year": 2017,
-    "venue": "",
+    "venue": "IEEE",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/8239942/",
     "citations": 3
   },
@@ -363,7 +363,7 @@
     "title": "Ripple: A test-aware architecture modeling framework",
     "authors": "Lu Xiao, Tingting Yu",
     "year": 2017,
-    "venue": "",
+    "venue": "IEEE",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/7968050/",
     "citations": 2
   },
@@ -387,7 +387,7 @@
     "title": "Identifying and quantifying architectural debt",
     "authors": "Lu Xiao, Yuanfang Cai, Rick Kazman, Ran Mo, Qiong Feng",
     "year": 2016,
-    "venue": "",
+    "venue": "ACM",
     "paper_url": "https://dl.acm.org/doi/abs/10.1145/2884781.2884822",
     "citations": 146
   },
@@ -395,7 +395,7 @@
     "title": "Decoupling level: A new metric for architectural maintenance complexity",
     "authors": "Ran Mo, Yuanfang Cai, Rick Kazman, Lu Xiao, Qiong Feng",
     "year": 2016,
-    "venue": "",
+    "venue": "ACM",
     "paper_url": "https://dl.acm.org/doi/abs/10.1145/2884781.2884825",
     "citations": 116
   },
@@ -403,7 +403,7 @@
     "title": "Towards an architecture-centric approach to security analysis",
     "authors": "Qiong Feng, Rick Kazman, Yuanfang Cai, Ran Mo, Lu Xiao",
     "year": 2016,
-    "venue": "",
+    "venue": "IEEE",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/7516832/",
     "citations": 46
   },
@@ -419,7 +419,7 @@
     "title": "A case study in locating the architectural roots of technical debt",
     "authors": "Rick Kazman, Yuanfang Cai, Ran Mo, Qiong Feng, Lu Xiao, Serge Haziyev, Volodymyr Fedak, Andriy Shapochka",
     "year": 2015,
-    "venue": "",
+    "venue": "IEEE",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/7202962/",
     "citations": 214
   },
@@ -427,7 +427,7 @@
     "title": "Hotspot patterns: The formal definition and automatic detection of architecture smells",
     "authors": "Ran Mo, Yuanfang Cai, Rick Kazman, Lu Xiao",
     "year": 2015,
-    "venue": "",
+    "venue": "IEEE",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/7158503/",
     "citations": 189
   },
@@ -443,7 +443,7 @@
     "title": "A study on the role of software architecture in the evolution and quality of software",
     "authors": "Ehsan Kouroshfar, Mehdi Mirakhorli, Hamid Bagheri, Lu Xiao, Sam Malek, Yuanfang Cai",
     "year": 2015,
-    "venue": "",
+    "venue": "IEEE",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/7180084/",
     "citations": 58
   },
@@ -451,7 +451,7 @@
     "title": "Quantifying architectural debts",
     "authors": "Lu Xiao",
     "year": 2015,
-    "venue": "",
+    "venue": "ACM",
     "paper_url": "https://dl.acm.org/doi/abs/10.1145/2786805.2803194",
     "citations": 7
   },
@@ -459,7 +459,7 @@
     "title": "Design rule spaces: A new form of architecture insight",
     "authors": "Lu Xiao, Yuanfang Cai, Rick Kazman",
     "year": 2014,
-    "venue": "",
+    "venue": "ACM",
     "paper_url": "https://dl.acm.org/doi/abs/10.1145/2568225.2568241",
     "citations": 120
   },
@@ -467,7 +467,7 @@
     "title": "Titan: A toolset that connects software architecture with quality analysis",
     "authors": "Lu Xiao, Yuanfang Cai, Rick Kazman",
     "year": 2014,
-    "venue": "",
+    "venue": "ACM",
     "paper_url": "https://dl.acm.org/doi/abs/10.1145/2635868.2661677",
     "citations": 83
   },
@@ -475,7 +475,7 @@
     "title": "A replication case study to measure the architectural quality of a commercial system",
     "authors": "Derek Reimanis, Clemente Izurieta, Rachael Luhr, Lu Xiao, Yuanfang Cai, Gabe Rudy",
     "year": 2014,
-    "venue": "",
+    "venue": "ACM",
     "paper_url": "https://dl.acm.org/doi/abs/10.1145/2652524.2652581",
     "citations": 12
   },
@@ -491,7 +491,7 @@
     "title": "Measuring architecture quality by structure plus history analysis",
     "authors": "Robert Schwanke, Lu Xiao, Yuanfang Cai",
     "year": 2013,
-    "venue": "",
+    "venue": "IEEE",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/6606638/",
     "citations": 68
   },
@@ -499,7 +499,7 @@
     "title": "A MovingObject Index for Efficient Query Processing with Peer-Wise Location Privacy",
     "authors": "Dan Lin, Christian S Jensen, Rui Zhang, Lu Xiao, Jiaheng Lu",
     "year": 2011,
-    "venue": "",
+    "venue": "arXiv",
     "paper_url": "https://arxiv.org/abs/1109.6883",
     "citations": 11
   },
@@ -515,7 +515,7 @@
     "title": "Welcome from the ECASE 2019 Workshop Organizers",
     "authors": "Nenad Medvidovic, Sam Malek, Mehdi Mirakhorli, Joshua Garcia, Lu Xiao, Rick Kazman, Yuanfang Cai",
     "year": "",
-    "venue": "",
+    "venue": "IEEE",
     "paper_url": "https://scholar.archive.org/work/egig7iomwzeb7a2wqdaxqar5cy/access/wayback/https://ieeexplore.ieee.org/ielx7/8805992/8815598/08815601.pdf",
     "citations": 0
   },
