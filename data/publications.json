@@ -8,14 +8,6 @@
     "citations": 3
   },
   {
-    "title": "BOARD# 353A: DUE: Integrating Performance Engineering in Software Engineering Education: A Multi-Course Project Approach",
-    "authors": "Lu Xiao, Yu Tao, Andre Benjamin Bondi, Eman Abdullah AlOmar",
-    "year": 2025,
-    "venue": "ASEE",
-    "paper_url": "https://peer.asee.org/board-353a-due-integrating-performance-engineering-in-software-engineering-education-a-multi-course-project-approach",
-    "citations": 0
-  },
-  {
     "title": "Cultivating Performance Awareness in a Testing Project: A Focus on Machine-Readable Travel Documents",
     "authors": "Lu Xiao, Andre B Bondi, Eman Abdullah AlOmar, Yu Tao",
     "year": 2025,
@@ -200,14 +192,6 @@
     "citations": 2
   },
   {
-    "title": "Constructing a shared infrastructure for software architecture analysis and maintenance",
-    "authors": "Joshua Garcia, Mehdi Mirakhorli, Lu Xiao, Yutong Zhao, Ibrahim Mujhid, Khoi Pham, Ahmet Okutan, Sam Malek, Rick Kazman, Yuanfang Cai, Nenad Medvidović",
-    "year": 2021,
-    "venue": "IEEE",
-    "paper_url": "https://ieeexplore.ieee.org/abstract/document/9426737/",
-    "citations": 22
-  },
-  {
     "title": "Detecting the locations and predicting the maintenance costs of compound architectural debts",
     "authors": "Lu Xiao, Yuanfang Cai, Rick Kazman, Ran Mo, Qiong Feng",
     "year": 2021,
@@ -296,14 +280,6 @@
     "citations": 6
   },
   {
-    "title": "Conference Chairs: Nenad Medvidovic, Mehdi Mirakhorli, Sam Malek, Joshua Garcia",
-    "authors": "Yuanfang Cai, Rick Kazman, Lu Xiao",
-    "year": 2019,
-    "venue": "ACM",
-    "paper_url": "https://dl.acm.org/doi/abs/10.5555/3338783",
-    "citations": 0
-  },
-  {
     "title": "Design rule spaces: A new model for representing and analyzing software architecture",
     "authors": "Yuanfang Cai, Lu Xiao, Rick Kazman, Ran Mo, Qiong Feng",
     "year": 2018,
@@ -326,14 +302,6 @@
     "venue": "ACM",
     "paper_url": "https://dl.acm.org/doi/abs/10.1145/3183440.3195008",
     "citations": 5
-  },
-  {
-    "title": "Principal Investigator",
-    "authors": "Jon Wade, David Coe, Paul Grogan, Azad Madni, Karen Marais, Tom McDermott, Gary Witus, Lu Xiao",
-    "year": 2018,
-    "venue": "",
-    "paper_url": "https://apps.dtic.mil/sti/trecms/pdf/AD1051199.pdf",
-    "citations": 0
   },
   {
     "title": "RT 205: Identifying and Measuring Modularity Violations on Cyber-Physical Systems",
@@ -366,14 +334,6 @@
     "venue": "IEEE",
     "paper_url": "https://ieeexplore.ieee.org/abstract/document/7968050/",
     "citations": 2
-  },
-  {
-    "title": "Transforming Systems Engineering through Model-Centric Engineering",
-    "authors": "Andrew Dawson, John Dzielski, Rick Dove, Paul Grogan, Steven Hoffenson, Eirik Hole, Roger Jones, Benjamin Kruse, Jeff McDonald, Kishore Pochiraju, Chris Snyder, Lu Xiao",
-    "year": 2017,
-    "venue": "",
-    "paper_url": "https://apps.dtic.mil/sti/citations/AD1038374",
-    "citations": 0
   },
   {
     "title": "Investigating Approaches to Achieve Modularity Benefits in the Acquisition Ecosystem",
@@ -502,22 +462,6 @@
     "venue": "arXiv",
     "paper_url": "https://arxiv.org/abs/1109.6883",
     "citations": 11
-  },
-  {
-    "title": "ECASE 2019 Organizing Committee",
-    "authors": "Nenad Medvidovic, Mehdi Mirakhorli, Sam Malek, Joshua Garcia, Yuanfang Cai, Rick Kazman, Lu Xiao",
-    "year": "",
-    "venue": "",
-    "paper_url": "https://www.computer.org/csdl/proceedings-article/ecase/2019/224100z008/1cTIlqatcWc",
-    "citations": 0
-  },
-  {
-    "title": "Welcome from the ECASE 2019 Workshop Organizers",
-    "authors": "Nenad Medvidovic, Sam Malek, Mehdi Mirakhorli, Joshua Garcia, Lu Xiao, Rick Kazman, Yuanfang Cai",
-    "year": "",
-    "venue": "IEEE",
-    "paper_url": "https://scholar.archive.org/work/egig7iomwzeb7a2wqdaxqar5cy/access/wayback/https://ieeexplore.ieee.org/ielx7/8805992/8815598/08815601.pdf",
-    "citations": 0
   },
   {
     "title": "FSE: G: Detecting and Preventing the Architectural Roots of Bugs",
