@@ -22,7 +22,7 @@ const Navbar = () => {
             Publications
           </Link>
           <Link to="/people" className="navbar-link">
-            People
+            Team
           </Link>
           <Link to="/about" className="navbar-link">
             About
