@@ -33,6 +33,20 @@ const People = () => {
       image: `${import.meta.env.BASE_URL}images/people/hqin.jpeg`,
       note: "Research focus: Unit Test Mocking",
       url: "#"
+    },
+    {
+      name: "Renming Zheng",
+      title: "PhD Student",
+      image: `${import.meta.env.BASE_URL}images/people/default_shot.png`,
+      note: "",
+      url: "https://scholar.google.com/citations?user=EDp5bt8AAAAJ"
+    },
+    {
+      name: "Xinyi Li",
+      title: "PhD Student",
+      image: `${import.meta.env.BASE_URL}images/people/default_shot.png`,
+      note: "",
+      url: "#"
     }
   ];
 
