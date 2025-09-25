@@ -8,7 +8,7 @@ const People = () => {
       image: `${import.meta.env.BASE_URL}images/people/lxiao6.webp`,
       note: "",
       tag: "PI",
-      url: "https://scholar.google.com/citations?user=YOUR_ID"
+      url: "https://scholar.google.com/citations?user=s2Z7NFYAAAAJ"
     }
   ];
 

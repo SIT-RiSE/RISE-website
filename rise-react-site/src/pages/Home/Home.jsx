@@ -103,9 +103,9 @@ const Home = () => {
         <div className="container text-center">
           <h2 className="section-title">Open Positions</h2>
           <p className="section-subtitle">
-            We are currently looking for students to join our research team.
+            We are always looking for students to join our research team.
           </p>
-          <a href="/about" className="btn-primary">
+          <a href="#/about" className="btn-primary">
             Learn More
           </a>
         </div>
